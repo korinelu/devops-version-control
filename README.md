@@ -22,6 +22,8 @@ This project demonstrates proper Git version control practices in a DevOps conte
 ## 📄 Task Documentation
 See `TASKS.md` for the full list of completed tasks.
 
+[TASKS.md](TASKS.md): Task-wise progress documentation 
+
 
 ✅ Repo initialized and pushed
 ✅ Branches (main, dev, feature/*) created
