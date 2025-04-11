@@ -21,3 +21,10 @@ This project demonstrates proper Git version control practices in a DevOps conte
 
 ## 📄 Task Documentation
 See `TASKS.md` for the full list of completed tasks.
+
+
+✅ Repo initialized and pushed
+✅ Branches (main, dev, feature/*) created
+✅ .gitignore, README.md, and TASKS.md added
+✅ Pull Request created and merged
+✅ Tag created (like v1.0)
