@@ -1,7 +1,3 @@
-﻿# DevOps Version Control Project
-
-
-
 # DevOps Version Control Project
 
 ## 🚀 Overview
