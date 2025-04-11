@@ -24,9 +24,17 @@ See `TASKS.md` for the full list of completed tasks.
 
 [TASKS.md](TASKS.md): Task-wise progress documentation 
 
+- [COMMANDS.md](COMMANDS.md): Full list of Git commands used
+
 
 ✅ Repo initialized and pushed
+
 ✅ Branches (main, dev, feature/*) created
+
 ✅ .gitignore, README.md, and TASKS.md added
+
 ✅ Pull Request created and merged
+
 ✅ Tag created (like v1.0)
+
+
